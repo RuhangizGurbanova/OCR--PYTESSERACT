@@ -6,7 +6,7 @@ This project focuses on extracting data from scanned PDF documents using Optical
 ### Key Features:
 OCR Data Extraction: Utilizing pytesseract, we've implemented OCR functionality to extract text data from scanned PDF documents, overcoming the challenge of working with non-searchable PDFs.
 
-###Image Preprocessing: 
+### Image Preprocessing: 
 Employing PIL (Python Imaging Library), we've incorporated image preprocessing techniques to enhance the accuracy of text extraction, including noise reduction, contrast adjustment, and image binarization.
 
 ### JSON Output: 
