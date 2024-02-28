@@ -13,5 +13,7 @@ Employing PIL (Python Imaging Library), we've incorporated image preprocessing t
 The extracted text content is organized and stored in JSON format, providing a structured representation of the data for further analysis and processing.
 
 ## Repository Contents:
-### PDF Data Extraction Scripts: Python scripts for processing scanned PDF files and extracting text data using OCR techniques.
-### Image Preprocessing Functions: Modules containing image preprocessing functions to optimize text extraction accuracy.
+### PDF Data Extraction Scripts: 
+Python scripts for processing scanned PDF files and extracting text data using OCR techniques.
+### Image Preprocessing Functions: 
+Modules containing image preprocessing functions to optimize text extraction accuracy.
